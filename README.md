@@ -6,7 +6,7 @@
 
 Hi, I am a professional Software Engineer. Formerly of [Culture Amp](https://www.cultureamp.com), [UsabilityHub](https://www.usabilityhub.com), [Present Company](https://presentcompany.co) and [NightGuru](https://www.f6s.com/thenightguru).
 
-I am currently working on [workingoutloud.dev](https://workingoutloud.dev), [Den Dribbles](https://blog.dennisokeeffe.com), TLWI, Projects Vine, Project Course and Project Padding.
+I am currently working at [Visibuild](https://visibuild.com.au). On the side, I am working on [workingoutloud.dev](https://workingoutloud.dev), [Den Dribbles](https://blog.dennisokeeffe.com) and [TheLastWeekIn.Dev](https://thelastweekin.dev).
 
 I also run a number of online newsletters on [Rust](https://rusticles.dennisokeeffe.com/), [Golang](https://golang-weekly.dennisokeeffe.com/), [TypeScript](https://tlwi-typescript.dennisokeeffe.com) and [weekly development](https://developer-weekly.dennisokeeffe.com/).
 
